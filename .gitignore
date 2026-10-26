@@ -36,6 +36,3 @@ data/sites/*
 !data/sites/.keep
 data/index.json
 web/dist
-
-# local screen recordings
-demo/*.mp4
